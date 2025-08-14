@@ -1,4 +1,4 @@
-Accepting Contributions
+**Accepting Contributions**
 If you would like to contribute to this repository by adding course materials, please follow these steps:
 
 i. Fork this repository to your account.
